@@ -8,7 +8,11 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> <b>About Me:</b>
 
 - 👨‍💻 Student at Brototype
-- 💬 Ask me about <i>Web Development</i>
+- 🐍 Learning <i>Python Django + react</i>
+- 🚀 Currently diving into: **Python Django + React**
+- 🛠️ Love turning ideas into real-world projects
+- 💬 Ask me about anything **Web Development**, or just say hi!
+  
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithnhh&theme=react-dark)
