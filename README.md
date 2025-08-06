@@ -13,9 +13,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithnhh&theme=react-dark)
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithnhh&theme=radical"/>
-</p>
+
 
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> <b>Languages & Tools:</b>
 
