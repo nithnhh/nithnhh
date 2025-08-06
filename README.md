@@ -10,6 +10,7 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
 - 👨🏻‍💻 Student at Brototype
 - 💬 Ask me about *Web Development*
+<p align="center"><b>A passionate full-stack developer who loves to build web apps with Python, Django, and React!</b></p>
 
 
 
