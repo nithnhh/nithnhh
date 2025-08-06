@@ -15,8 +15,7 @@
   
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithnhh&theme=react-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHIN-NT&theme=react-dark)
 
 
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> <b>Languages & Tools:</b>
@@ -37,9 +36,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithnhh/nithnhh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithnhh/nithnhh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nithnhh/nithnhh/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHIN-NT/NITHIN-NT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHIN-NT/NITHIN-NT/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NITHIN-NT/NITHIN-NT/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -47,9 +46,9 @@
 
 <details>
   <summary>📜 <b>Profile Summary</b></summary>
-  <a align="center" href="https://github.com/nithnhh?tab=repositories">
+  <a align="center" href="https://github.com/NITHIN-NT?tab=repositories">
     <p align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithnhh&theme=github_dark" alt="my github stats"/>&nbsp;
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHIN-NT&theme=github_dark" alt="my github stats"/>&nbsp;
     </p>
   </a>
 </details>
@@ -58,8 +57,8 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
   <br />
   <p align="center">
-    <a href="https://github.com/nithnhh">
-      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=nithnhh&layout=compact&theme=radical&langs_count=6" />
+    <a href="https://github.com/NITHIN-NT">
+      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=NITHIN-NT&layout=compact&theme=radical&langs_count=6" />
     </a>
   </p>
 </details>
@@ -68,8 +67,8 @@
   <summary>🏆 <b>Github Profile Trophy</b></summary>
   <br />
   <p align="center">
-    <a href="https://github.com/nithnhh">
-      <img src="https://github-profile-trophy.vercel.app/?username=nithnhh&column=8&theme=darkhub"/>
+    <a href="https://github.com/NITHIN-NT">
+      <img src="https://github-profile-trophy.vercel.app/?username=NITHIN-NT&column=8&theme=darkhub"/>
     </a>
   </p>
 </details>
